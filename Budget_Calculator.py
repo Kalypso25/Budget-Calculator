@@ -44,6 +44,7 @@ def greeting():
     print("  WELCOME TO THE BUDGET CALCULATOR".center(50))
     print("=" * 50 + "\n")
     print("© 2026 Kalyspo25 | github.com/Kalypso25")
+    print()
 
     _greeting = input("Enter 'v' to view your opening balances or 'm' for main menu: ").lower()
 
